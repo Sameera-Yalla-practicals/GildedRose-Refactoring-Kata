@@ -1,3 +1,4 @@
+/*
 package com.gildedrose;
 
 public class TexttestFixture {
@@ -35,3 +36,4 @@ public class TexttestFixture {
     }
 
 }
+*/

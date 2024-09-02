@@ -1,3 +1,4 @@
+/*
 package com.gildedrose;
 
 public class Item {
@@ -19,3 +20,4 @@ public class Item {
         return this.name + ", " + this.sellIn + ", " + this.quality;
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package com.gildedrose;
 
 class GildedRose {
@@ -60,3 +61,4 @@ class GildedRose {
         }
     }
 }
+*/

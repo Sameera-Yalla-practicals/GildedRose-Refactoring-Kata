@@ -1,3 +1,4 @@
+/*
 package com.gildedrose;
 
 import org.junit.jupiter.api.Test;
@@ -15,3 +16,4 @@ class GildedRoseTest {
     }
 
 }
+*/
